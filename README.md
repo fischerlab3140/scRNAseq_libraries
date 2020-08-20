@@ -1,2 +1,2 @@
 # scRNAseq_libraries
-An archive of retinal single cell RNA seq libraries produced by the Fischer Lab
+An archive of retinal single cell RNA seq libraries produced by the Fischer Lab. Every library was prepared using standard 10x genomics reagents and the 10x chromium controller. Samples were preped with an expectation of 10,000 cells per library, with actual cell counts ranging from 4-15k. Raw sequencing data files in a FASTA format are available upon request (fischer.412@osu.edu).
